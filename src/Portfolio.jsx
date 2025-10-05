@@ -142,11 +142,12 @@ const Portfolio = () => {
                 clean code.
               </p>
               <div className="tech-list">
+                <span className="tech-item">Python</span>
+                <span className="tech-item">C</span>
                 <span className="tech-item">HTML</span>
                 <span className="tech-item">CSS</span>
                 <span className="tech-item">JavaScript</span>
                 <span className="tech-item">ReactJS</span>
-                <span className="tech-item">Angular</span>
                 <span className="tech-item">NodeJS</span>
                 <span className="tech-item">Express</span>
                 <span className="tech-item">MongoDB</span>
@@ -190,11 +191,11 @@ const Portfolio = () => {
             <div className="skill-category hidden">
               <h3>Technical Skills</h3>
               <ul className="skill-list">
+                <li className="skill-item">Python</li>
                 <li className="skill-item">HTML5</li>
                 <li className="skill-item">CSS3</li>
                 <li className="skill-item">JavaScript</li>
                 <li className="skill-item">ReactJS</li>
-                <li className="skill-item">Angular</li>
                 <li className="skill-item">Node.js</li>
                 <li className="skill-item">Express.js</li>
                 <li className="skill-item">MongoDB</li>
