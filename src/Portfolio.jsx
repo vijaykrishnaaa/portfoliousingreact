@@ -423,6 +423,7 @@ const Portfolio = () => {
                 <div className="contact-text">
                   <h3>Languages</h3>
                   <p>English, Telugu, Hindi (fluent in speaking and reading)</p>
+                  <p>Japanese(Learning)</p>
                 </div>
               </div>
             </div>
