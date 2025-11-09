@@ -108,7 +108,7 @@ const Portfolio = () => {
               </p>
               <div className="cta-buttons">
                 <a href="#skills" className="btn">View Skills</a>
-                <a href="vijaycv.docx" className="btn" id="resume-download">
+                <a href="Resume_Burra_Vijay_Krishna.pdf" className="btn" id="resume-download">
                   Download Resume
                 </a>
               </div>
@@ -142,16 +142,17 @@ const Portfolio = () => {
                 clean code.
               </p>
               <div className="tech-list">
-                <span className="tech-item">Python</span>
-                <span className="tech-item">C</span>
-                <span className="tech-item">HTML</span>
-                <span className="tech-item">CSS</span>
-                <span className="tech-item">JavaScript</span>
-                <span className="tech-item">ReactJS</span>
-                <span className="tech-item">NodeJS</span>
-                <span className="tech-item">Express</span>
-                <span className="tech-item">MongoDB</span>
-                <span className="tech-item">MySQL</span>
+  <span className="tech-item">Python</span>
+  <span className="tech-item">HTML</span>
+  <span className="tech-item">CSS</span>
+  <span className="tech-item">JavaScript</span>
+  <span className="tech-item">ReactJS</span>
+  <span className="tech-item">NodeJS</span>
+  <span className="tech-item">Express</span>
+  <span className="tech-item">MongoDB</span>
+  <span className="tech-item">Chart.js</span>
+  <span className="tech-item">Git</span>
+  <span className="tech-item">GitHub</span>
               </div>
             </div>
             <div className="hidden-right">
@@ -191,16 +192,16 @@ const Portfolio = () => {
             <div className="skill-category hidden">
               <h3>Technical Skills</h3>
               <ul className="skill-list">
-                <li className="skill-item">Python</li>
-                <li className="skill-item">HTML5</li>
-                <li className="skill-item">CSS3</li>
-                <li className="skill-item">JavaScript</li>
-                <li className="skill-item">ReactJS</li>
-                <li className="skill-item">Node.js</li>
-                <li className="skill-item">Express.js</li>
-                <li className="skill-item">MongoDB</li>
-                <li className="skill-item">MySQL</li>
-                <li className="skill-item">Git & GitHub</li>
+    <li className="skill-item">Python</li>
+    <li className="skill-item">HTML5</li>
+    <li className="skill-item">CSS3</li>
+    <li className="skill-item">JavaScript</li>
+    <li className="skill-item">ReactJS</li>
+    <li className="skill-item">Node.js</li>
+    <li className="skill-item">Express.js</li>
+    <li className="skill-item">MongoDB</li>
+    <li className="skill-item">MySQL</li>
+    <li className="skill-item">Git & GitHub</li>
               </ul>
             </div>
 
@@ -209,13 +210,9 @@ const Portfolio = () => {
               <ul className="skill-list">
                 <li className="skill-item">Problem Solving</li>
                 <li className="skill-item">Attention to Detail</li>
-                <li className="skill-item">Time Management</li>
-                <li className="skill-item">Effective Communication</li>
-                <li className="skill-item">Critical Thinking</li>
                 <li className="skill-item">Team Collaboration</li>
                 <li className="skill-item">Clean Code Practices</li>
-                <li className="skill-item">Emotional Intelligence</li>
-                <li className="skill-item">Strong Work Ethics</li>
+                <li className="skill-item">Time Management</li>
               </ul>
             </div>
           </div>
