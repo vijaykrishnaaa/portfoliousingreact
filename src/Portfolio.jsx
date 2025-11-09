@@ -130,16 +130,10 @@ const Portfolio = () => {
             <div className="about-text hidden">
               <p>
                 I'm currently pursuing
-                <span> BTech at Amrita Vishwa Vidyapeetham (2023–2027)</span>. I'm
-                a self-taught full-stack web developer with a strong foundation in
-                front-end and back-end development, and an active learner always
-                exploring new tools and frameworks.
+                <span> I'm currently pursuing a B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham (2023–2027). I’m a motivated learner with a strong interest in Artificial Intelligence and Full-Stack Web Development, focusing on practical applications of technology to solve real-world problems.
               </p>
               <p>
-                I'm confident in <span>HTML, CSS, JavaScript</span>, and modern
-                libraries like <span>React and Node.js</span>. My passion for web
-                development drives me to create efficient, scalable solutions with
-                clean code.
+                I’m skilled in Python, HTML, CSS, JavaScript, and frameworks like React, Node.js, Express, and MongoDB. I’ve also developed a growing foundation in Machine Learning and Generative AI, supported by Oracle Cloud certifications. My goal is to build efficient, scalable, and user-centric solutions that bridge innovation and usability.
               </p>
               <div className="tech-list">
   <span className="tech-item">Python</span>
