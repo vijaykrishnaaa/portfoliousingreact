@@ -102,10 +102,12 @@ const Portfolio = () => {
           <div className="home-grid">
             <div className="home-content">
               <h1><span>VIJAY KRISHNA BURRA</span></h1>
-              <p>
-                A self-taught web developer and student passionate about crafting
-                clean, responsive, and user-centric web experiences.
-              </p>
+<p>
+  A passionate Computer Science student and aspiring developer skilled in 
+  <span>Full-Stack Web Development</span> and 
+  <span>Artificial Intelligence</span>. Dedicated to building 
+  <span>efficient, scalable, and user-focused applications</span> through continuous learning and hands-on practice.
+</p>
               <div className="cta-buttons">
                 <a href="#skills" className="btn">View Skills</a>
                 <a href="Resume_Burra_Vijay_Krishna.pdf" className="btn" id="resume-download">
@@ -129,12 +131,20 @@ const Portfolio = () => {
           <div className="about-content">
             <div className="about-text hidden">
               <p>
-                I'm currently pursuing
-                <span> I'm currently pursuing a B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham (2023–2027). I’m a motivated learner with a strong interest in Artificial Intelligence and Full-Stack Web Development, focusing on practical applications of technology to solve real-world problems.
-              </p>
-              <p>
-                I’m skilled in Python, HTML, CSS, JavaScript, and frameworks like React, Node.js, Express, and MongoDB. I’ve also developed a growing foundation in Machine Learning and Generative AI, supported by Oracle Cloud certifications. My goal is to build efficient, scalable, and user-centric solutions that bridge innovation and usability.
-              </p>
+  I'm currently pursuing 
+  <span>B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham (2023–2027)</span>. 
+  I’m a motivated learner with a strong interest in 
+  <span>Artificial Intelligence</span> and 
+  <span>Full-Stack Web Development</span>, focusing on applying technology to solve real-world problems.
+</p>
+
+<p>
+  I'm skilled in <span>Python, HTML, CSS, JavaScript</span>, and frameworks such as 
+  <span>React, Node.js, Express, and MongoDB</span>. 
+  I also have a growing foundation in 
+  <span>Machine Learning</span> and <span>Generative AI</span>, supported by Oracle Cloud certifications. 
+  My goal is to build <span>efficient, scalable, and user-focused solutions</span> that bridge innovation and usability.
+</p>
               <div className="tech-list">
   <span className="tech-item">Python</span>
   <span className="tech-item">HTML</span>
